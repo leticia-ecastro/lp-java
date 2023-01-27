@@ -1,0 +1,1 @@
+Este repositório contém as listas de exercícios resolvidas referentes à disciplina de Linguagem de Programação. A resolução desses exercícios objetiva o desenvolvimento da lógica de programação por meio do estudo de variáveis, entrada e saída de dados, estrutura de desvio condicional, estrutura de escolha, laços de repetição, Strings e Arrays unidimensionais.
